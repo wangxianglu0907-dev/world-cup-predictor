@@ -1,0 +1,16 @@
+{
+  "mappings": [
+    { "canonical": "Brazil", "statsbomb": "Brazil", "openligadb": "Brasilien", "dqd": "巴西" },
+    { "canonical": "Argentina", "statsbomb": "Argentina", "openligadb": "Argentinien", "dqd": "阿根廷" },
+    { "canonical": "France", "statsbomb": "France", "openligadb": "Frankreich", "dqd": "法国" },
+    { "canonical": "England", "statsbomb": "England", "openligadb": "England", "dqd": "英格兰" },
+    { "canonical": "Spain", "statsbomb": "Spain", "openligadb": "Spanien", "dqd": "西班牙" },
+    { "canonical": "Germany", "statsbomb": "Germany", "openligadb": "Deutschland", "dqd": "德国" },
+    { "canonical": "Portugal", "statsbomb": "Portugal", "openligadb": "Portugal", "dqd": "葡萄牙" },
+    { "canonical": "Netherlands", "statsbomb": "Netherlands", "openligadb": "Niederlande", "dqd": "荷兰" },
+    { "canonical": "Croatia", "statsbomb": "Croatia", "openligadb": "Kroatien", "dqd": "克罗地亚" },
+    { "canonical": "Japan", "statsbomb": "Japan", "openligadb": "Japan", "dqd": "日本" },
+    { "canonical": "South Korea", "statsbomb": "Korea Republic", "openligadb": "Südkorea", "dqd": "韩国" },
+    { "canonical": "Morocco", "statsbomb": "Morocco", "openligadb": "Marokko", "dqd": "摩洛哥" }
+  ]
+}
